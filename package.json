@@ -1,0 +1,22 @@
+{
+  "name": "generateqrcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaMagdyMohamed/generateQrCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaMagdyMohamed/generateQrCode/issues"
+  },
+  "homepage": "https://github.com/AyaMagdyMohamed/generateQrCode#readme",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
